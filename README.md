@@ -15,4 +15,4 @@ just like the matchbox-card game..
 i.e simply you put your cards in the table one by one each player, when ever the two cards get the same rank,
 player with the last turn can take all the cards(whose turn matters), then alter the turn..continue till one player
 got no cards at all
-from this game you can make it easier..do that
+from this game one can make it easier..do that
