@@ -1,4 +1,4 @@
-# Python-OOP
+# Python-OOP-learning
 ## Basic python card game.
 
 ###This is my project for learning OOP in python, I'm more focussing on the readability of
