@@ -1,7 +1,7 @@
-"# Python-Django-Learning" 
-"# Python-Django-Learning" 
+# Python-OOP
+## Basic python card game.
 
-##This is my project for learning OOP in python, I'm more focussing on the readability of
+###This is my project for learning OOP in python, I'm more focussing on the readability of
 code, I know its a very amature code, but I explained every steps just for bare beginners
 just like me, any suggestions welcome...
 Thougts on gameplay
@@ -9,7 +9,7 @@ Developed the game with thoughts that it can be played manually as like in a reg
 but the problem with this game is it take enormous steps,(some time..more than 5000..plays each)
 I code it as automatic looping, you can make manual by adding simple condition in while loop..
 
-##For beginners..
+###For beginners..
 It is not good/playable game but you can make a fun and playable game with this idea...
 just like the matchbox-card game..
 i.e simply you put your cards in the table one by one each player, when ever the two cards get the same rank,
